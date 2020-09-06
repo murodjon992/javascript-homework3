@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.text{
+    font-size: 25px;
+    text-align: center;
+    padding: 40px;
+    color: rgb(10, 55, 251);
+    text-transform: uppercase;
+}
+ol{
+    margin: 0 auto;
+    margin-left: 550px;
+}
+.tag__link{
+    font-size: 25px;
+    margin: 0 auto;
+    color: rgb(10, 55, 251);
+}
+.box{
+    text-align: center;
+    margin: 25px 0;
+}
+.blog{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 25px 100px;
+    border: 2px solid #000;
+    width: max-content;
+    background-color: rgba(0, 0, 0, 0.767);
+}
+.blog__text, #in__text{
+    font-size: 30px;
+    padding-right: 20px;
+    color: rebeccapurple;
+    text-transform: uppercase;
+    color: #fff;
+}
+.st__text{
+    text-transform: uppercase;
+    font-size: 35px;
+    text-align: center;
+    padding: 40px 0;
+}
+.st__text1{
+    padding-right: 50px;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+.btn2{
+    background: none;
+    color: rgb(255, 13, 13);
+    font-size: 22px;
+    padding: 1px;
+    box-shadow: inset 2px 2px 5px 2px rgba(0, 0, 0, 0.767);
+}
+.btn1{
+    padding: 5px 15px;
+    background: #000;
+    border: none;
+}
+.st__blog{
+    background-color: rgb(32, 235, 150);
+    width: max-content;
+    margin: 35px auto;
+    padding: 20px 70px;
+    color: rgb(61, 22, 22);
+    border-radius: 5px;
+}
+#stair{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
